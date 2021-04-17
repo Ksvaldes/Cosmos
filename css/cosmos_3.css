@@ -1,0 +1,29 @@
+body{
+    background-color: #03384a;
+}
+.titulol{
+    width: 500px;
+    line-height: 180px;
+    margin-top: 15px;
+    margin:auto;
+   
+}
+.LUNA{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'RocknRoll One', sans-serif; 
+    color: white;
+}
+.lunaConDiseno{
+    width: 147px;
+    height: 147px;
+    border:1px solid;
+    margin-right: 25px; 
+    border-color: gray;
+     transition: 2s;
+}
+.lunaConDiseno:hover{
+    
+    filter: invert(70%);
+    transition: 2s;
+}

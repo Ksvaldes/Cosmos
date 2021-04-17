@@ -1,0 +1,66 @@
+
+.titulo{
+    width: 500px;
+    line-height: 180px;
+    margin-top: 30px;
+    margin:auto;
+   
+}
+.MiNombre{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'RocknRoll One', sans-serif; 
+}
+.botones{
+    width: 600px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;  
+}
+.btn_1{
+    display: block;
+    background-color: #FC4A12;
+    width: 80px;
+    padding: 10px 40px 10px 40px;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+    transition: 0.3s;
+    
+}
+.btn_1:hover{
+    background-color:#4A4242;
+    transition: 0.3s;
+}
+.btn_2{
+    display: block;
+    background-color:#E06110 ;
+    width: 80px;
+    padding: 10px 40px 10px 40px;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+    transition: 0.3s;
+}
+.btn_2:hover{
+    background-color:#4A4242;
+    transition: 0.3s;
+}
+.btn_3{
+    display: block;
+    background-color:#F8931F ;
+    width: 80px;
+    padding: 10px 40px 10px 40px;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+    transition: 0.3s;
+}
+.btn_3:hover{
+    background-color: #4A4242;
+    transition: 0.3s;
+}

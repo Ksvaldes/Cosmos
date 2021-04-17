@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    
+}
+header{
+    width: 100%;
+    height: 65px;
+    padding: 12px 60px 0px 60px;
+    box-sizing: border-box;
+    border-bottom:3px;
+    border-bottom-color: black;
+    border-bottom-style: double; 
+    background-color: white;
+}
